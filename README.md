@@ -10,3 +10,16 @@ A Repo where I document my haskell learning journey.
 - Load the created code by running `:load <filename>`
 
 Now you can call functions and investigate all expressions.
+
+## REPl commands
+
+```sh
+# reload all modules
+:r
+
+# load module
+:load <module-name>
+
+# clear repl display
+ctrl+l
+```
